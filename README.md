@@ -48,7 +48,7 @@ A continuación se detalla el progreso de los ejercicios propuestos:
 
 ### 2. Archivo del primer ejercicio (Adentro de la carpeta `ejemplo-1/README.md`)
 
-```markdown
+```
 # Ejemplo 1: Edición de Contenedores en Ejecución
 
 ## Objetivo de la Práctica
