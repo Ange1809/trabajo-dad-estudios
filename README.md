@@ -18,10 +18,10 @@ Para la ejecución y testeo de los contenedores se utilizó la siguiente configu
 
 ## Resumen de Actividades
 
-* **[Ejemplo 1](./ejemplo-1/) (Completado):** Actualización del Dockerfile (PHP 8.2), despliegue web y edición en caliente mediante Vim.
-* **[Ejemplo 2](./ejemplo-2/) (Completado):** Análisis y ejecución de scripts de automatización (`run.sh`) para el despliegue de imágenes.
-* **[Ejemplo 3](./ejemplo-3/) (Completado):** Evaluación técnica sobre la portabilidad de scripts de sistema operativo frente a estándares agnósticos.
-* **[Ejemplo 7](./ejemplo-7/) (Completado):** Implementación de un entorno multi-contenedor (LEMP) utilizando Docker Compose.
+* **[Ejemplo 1](./ejemplo-1/) :** Actualización del Dockerfile (PHP 8.2), despliegue web y edición en caliente mediante Vim.
+* **[Ejemplo 2](./ejemplo-2/) :** Análisis y ejecución de scripts de automatización (`run.sh`) para el despliegue de imágenes.
+* **[Ejemplo 3](./ejemplo-3/) :** Evaluación técnica sobre la portabilidad de scripts de sistema operativo frente a estándares agnósticos.
+* **[Ejemplo 7](./ejemplo-7/) :** Implementación de un entorno multi-contenedor (LEMP) utilizando Docker Compose.
 
 ---
 
