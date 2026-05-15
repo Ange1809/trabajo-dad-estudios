@@ -45,8 +45,6 @@ Para la ejecución y testeo de los contenedores se utilizó la siguiente configu
 
 ---
 
-### 2. Archivo Ejemplo 2 (`ejemplo-2/README.md`)
-
 ```
 # Ejemplo 2: Automatización mediante Scripts de Shell
 
